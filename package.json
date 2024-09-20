@@ -1,0 +1,17 @@
+{
+  "name": "stakingpool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/mocha": "^10.0.8",
+    "hardhat": "^2.22.10"
+  }
+}
